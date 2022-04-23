@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Layihe\Layihe\obj\Debug\netcoreapp3.1\Layihe.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Layihe\Layihe\obj\Debug\netcoreapp3.1\Layihe.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Layihe\Layihe\obj\Debug\netcoreapp3.1\Layihe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Layihe\Layihe\bin\Debug\netcoreapp3.1\Layihe.exe
+C:\Users\Admin\source\repos\Layihe\Layihe\bin\Debug\netcoreapp3.1\Layihe.deps.json
+C:\Users\Admin\source\repos\Layihe\Layihe\bin\Debug\netcoreapp3.1\Layihe.runtimeconfig.json
+C:\Users\Admin\source\repos\Layihe\Layihe\bin\Debug\netcoreapp3.1\Layihe.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Layihe\Layihe\bin\Debug\netcoreapp3.1\Layihe.dll
+C:\Users\Admin\source\repos\Layihe\Layihe\bin\Debug\netcoreapp3.1\Layihe.pdb
+C:\Users\Admin\source\repos\Layihe\Layihe\obj\Debug\netcoreapp3.1\Layihe.dll
+C:\Users\Admin\source\repos\Layihe\Layihe\obj\Debug\netcoreapp3.1\Layihe.pdb
+C:\Users\Admin\source\repos\Layihe\Layihe\obj\Debug\netcoreapp3.1\Layihe.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Layihe\Layihe\obj\Debug\netcoreapp3.1\Layihe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Layihe\Layihe\obj\Debug\netcoreapp3.1\Layihe.csproj.AssemblyReference.cache
